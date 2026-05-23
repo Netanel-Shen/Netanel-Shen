@@ -18,14 +18,9 @@
 
 ## 🧠 About Me
 
-```python
-class NetanelShen:
-    location   = "🇮🇱 Israel"
-    role       = "Software Engineer → Cybersecurity"
-    interests  = ["Cybersecurity", "Backend Dev", "Detection Engineering", "Automation"]
-    current    = ["Wazuh SOC Home Lab", "Detection Rules", "Python Tools"]
-    motto      = "Build it. Break it. Secure it."
-```
+<div align="center">
+  <img src=".github/card.svg" width="100%" />
+</div>
 
 ---
 
@@ -91,6 +86,8 @@ class NetanelShen:
 | ⚙️ **Infrastructure** | Homelab, Docker, Linux hardening |
 
 ---
+
+
 
 <div align="center">
 
