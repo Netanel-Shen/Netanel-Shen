@@ -1,8 +1,5 @@
-<h1 align="center">Netanel Shen</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Netanel%20Shen&desc=Software%20Engineer&descAlign=50&descAlignY=76&descSize=25fontSize=40&fontColor=ffffff"/>
 
-<h3 align="center">
-Software Engineer
-</h3>
 
 ---
 
