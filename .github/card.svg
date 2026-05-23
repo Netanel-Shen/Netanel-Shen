@@ -120,7 +120,7 @@
 
   <!-- Stat 1 -->
   <g clip-path="url(#clip-stat1-lbl)">
-    <text x="295" y="136" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">commits 2026</text>
+    <text x="295" y="138" fill="#8b949e" font-family="'Fira Code',monospace" font-size="8">commits 2026</text>
   </g>
   <rect x="295" y="140" width="178" height="5" rx="2.5" fill="#1c2128" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.7s" fill="freeze"/>
@@ -133,7 +133,7 @@
 
   <!-- Stat 2 -->
   <g clip-path="url(#clip-stat2-lbl)">
-    <text x="295" y="166" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">repos</text>
+    <text x="295" y="167" fill="#8b949e" font-family="'Fira Code',monospace" font-size="8">repos</text>
   </g>
   <rect x="295" y="170" width="178" height="5" rx="2.5" fill="#1c2128" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.3s" fill="freeze"/>
@@ -146,7 +146,7 @@
 
   <!-- Stat 3 -->
   <g clip-path="url(#clip-stat3-lbl)">
-    <text x="295" y="196" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">contributions</text>
+    <text x="295" y="197" fill="#8b949e" font-family="'Fira Code',monospace" font-size="8">contributions</text>
   </g>
   <rect x="295" y="200" width="178" height="5" rx="2.5" fill="#1c2128" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.9s" fill="freeze"/>
@@ -159,7 +159,7 @@
 
   <!-- Stat 4 -->
   <g clip-path="url(#clip-stat4-lbl)">
-    <text x="295" y="226" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">streak</text>
+    <text x="295" y="227" fill="#8b949e" font-family="'Fira Code',monospace" font-size="8">streak</text>
   </g>
   <rect x="295" y="230" width="178" height="5" rx="2.5" fill="#1c2128" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.5s" fill="freeze"/>
