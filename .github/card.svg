@@ -1,138 +1,248 @@
-<svg width="100%" viewBox="0 0 690 430" role="img" style="" xmlns="http://www.w3.org/2000/svg">
-  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Netanel Shen – GitHub Profile Card</title>
-  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">A custom SVG profile card for Netanel Shen, SOC Engineer and backend developer</desc>
+<svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Netanel Shen – GitHub Profile Card</title>
+  <desc>Animated profile card for Netanel Shen, SOC Engineer and backend developer</desc>
 
   <defs>
-    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-    </marker>
-    
-  <mask id="imagine-text-gaps-g8wvve" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="690" height="430" fill="white"/><rect x="63.90423583984375" y="73.681640625" width="32.19154739379883" height="30.00750160217285" fill="black" rx="2"/><rect x="141" y="55.681640625" width="153.11119079589844" height="30.00750160217285" fill="black" rx="2"/><rect x="140.18727111816406" y="83.8089828491211" width="101.70574188232422" height="19.441953659057617" fill="black" rx="2"/><rect x="141" y="101.80899047851562" width="324.3695373535156" height="19.441953659057617" fill="black" rx="2"/><rect x="36.000003814697266" y="151.62171936035156" width="67.36771011352539" height="18.629220008850098" fill="black" rx="2"/><rect x="126" y="151.62171936035156" width="113.52848815917969" height="18.629220008850098" fill="black" rx="2"/><rect x="36.000003814697266" y="174.62173461914062" width="14.603466987609863" height="18.629220008850098" fill="black" rx="2"/><rect x="51" y="193.62171936035156" width="54.1734733581543" height="18.629207611083984" fill="black" rx="2"/><rect x="106" y="193.62171936035156" width="238.84197998046875" height="18.629207611083984" fill="black" rx="2"/><rect x="51" y="211.62171936035156" width="60.76424789428711" height="18.629220008850098" fill="black" rx="2"/><rect x="111" y="211.62171936035156" width="252.0362091064453" height="18.629220008850098" fill="black" rx="2"/><rect x="51" y="229.62171936035156" width="87.15271759033203" height="18.629220008850098" fill="black" rx="2"/><rect x="136" y="229.62171936035156" width="166.292724609375" height="18.629220008850098" fill="black" rx="2"/><rect x="51" y="247.62171936035156" width="60.76424789428711" height="18.629220008850098" fill="black" rx="2"/><rect x="109.00000762939453" y="242.7453155517578" width="216.4546661376953" height="24.318361282348633" fill="black" rx="2"/><rect x="36.000003814697266" y="265.6217346191406" width="14.603466987609863" height="18.629220008850098" fill="black" rx="2"/><rect x="396.0000305175781" y="151.62171936035156" width="67.36771011352539" height="18.629220008850098" fill="black" rx="2"/><rect x="466" y="151.62171936035156" width="67.36771011352539" height="18.629220008850098" fill="black" rx="2"/><rect x="396.0000305175781" y="178.62171936035156" width="87.1527099609375" height="18.629220008850098" fill="black" rx="2"/><rect x="608.8057861328125" y="192.62173461914062" width="21.194235801696777" height="18.629207611083984" fill="black" rx="2"/><rect x="396.0000305175781" y="208.62173461914062" width="40.97924041748047" height="18.629220008850098" fill="black" rx="2"/><rect x="615.3965454101562" y="222.62173461914062" width="15.314610004425049" height="18.629220008850098" fill="black" rx="2"/><rect x="396.0000305175781" y="238.62171936035156" width="93.74348449707031" height="18.629220008850098" fill="black" rx="2"/><rect x="608.8057861328125" y="252.62171936035156" width="21.194235801696777" height="18.629220008850098" fill="black" rx="2"/><rect x="396.0000305175781" y="268.6217346191406" width="48.29176712036133" height="18.629220008850098" fill="black" rx="2"/><rect x="608.8057861328125" y="282.6217346191406" width="21.194235801696777" height="18.629220008850098" fill="black" rx="2"/><rect x="36.000003814697266" y="319.6217346191406" width="67.36771011352539" height="18.629220008850098" fill="black" rx="2"/><rect x="116.00000762939453" y="319.6217346191406" width="47.582706451416016" height="18.629220008850098" fill="black" rx="2"/><rect x="51.859519958496094" y="347.2471923828125" width="44.28097152709961" height="16.19101619720459" fill="black" rx="2"/><rect x="123.90422821044922" y="347.2471923828125" width="32.19154739379883" height="16.19101619720459" fill="black" rx="2"/><rect x="177.85952758789062" y="347.2471923828125" width="44.730892181396484" height="16.19101619720459" fill="black" rx="2"/><rect x="242.88186645507812" y="347.2471923828125" width="38.685089111328125" height="16.19101619720459" fill="black" rx="2"/><rect x="304.92657470703125" y="347.2471923828125" width="26.146835327148438" height="16.19101619720459" fill="black" rx="2"/><rect x="359.8818664550781" y="347.2471923828125" width="38.23625946044922" height="16.19101619720459" fill="black" rx="2"/><rect x="425.92657470703125" y="347.2471923828125" width="26.593482971191406" height="16.19101619720459" fill="black" rx="2"/><rect x="485.90423583984375" y="347.2471923828125" width="32.19154739379883" height="16.19101619720459" fill="black" rx="2"/><rect x="36.000003814697266" y="389.6217346191406" width="159.70196533203125" height="18.629220008850098" fill="black" rx="2"/><rect x="566.4173583984375" y="389.6217346191406" width="47.582706451416016" height="18.629220008850098" fill="black" rx="2"/></mask></defs>
+    <!-- Typewriter clip paths - each reveals text left to right -->
+    <clipPath id="clip-name"><rect x="145" y="55" width="0" height="30"><animate attributeName="width" from="0" to="300" dur="0.6s" begin="0.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-sub1"><rect x="145" y="82" width="0" height="22"><animate attributeName="width" from="0" to="200" dur="0.4s" begin="1.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-sub2"><rect x="145" y="102" width="0" height="22"><animate attributeName="width" from="0" to="400" dur="0.6s" begin="1.4s" fill="freeze"/></rect></clipPath>
+
+    <clipPath id="clip-prompt1"><rect x="40" y="152" width="0" height="20"><animate attributeName="width" from="0" to="220" dur="0.4s" begin="1.0s" fill="freeze"/></rect></clipPath>
+
+    <clipPath id="clip-brace1"><rect x="36" y="174" width="0" height="20"><animate attributeName="width" from="0" to="20" dur="0.1s" begin="1.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-l1"><rect x="51" y="193" width="0" height="20"><animate attributeName="width" from="0" to="340" dur="0.5s" begin="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-l2"><rect x="51" y="211" width="0" height="20"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="2.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-l3"><rect x="51" y="229" width="0" height="20"><animate attributeName="width" from="0" to="310" dur="0.5s" begin="2.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-l4"><rect x="51" y="247" width="0" height="20"><animate attributeName="width" from="0" to="320" dur="0.5s" begin="3.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-brace2"><rect x="36" y="265" width="0" height="20"><animate attributeName="width" from="0" to="20" dur="0.1s" begin="4.0s" fill="freeze"/></rect></clipPath>
+
+    <clipPath id="clip-prompt2"><rect x="396" y="152" width="0" height="20"><animate attributeName="width" from="0" to="160" dur="0.4s" begin="1.0s" fill="freeze"/></rect></clipPath>
+
+    <clipPath id="clip-stat1-lbl"><rect x="396" y="178" width="0" height="20"><animate attributeName="width" from="0" to="140" dur="0.3s" begin="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-stat2-lbl"><rect x="396" y="208" width="0" height="20"><animate attributeName="width" from="0" to="80" dur="0.3s" begin="2.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-stat3-lbl"><rect x="396" y="238" width="0" height="20"><animate attributeName="width" from="0" to="150" dur="0.3s" begin="2.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-stat4-lbl"><rect x="396" y="268" width="0" height="20"><animate attributeName="width" from="0" to="80" dur="0.3s" begin="3.4s" fill="freeze"/></rect></clipPath>
+
+    <clipPath id="clip-prompt3"><rect x="36" y="319" width="0" height="20"><animate attributeName="width" from="0" to="160" dur="0.4s" begin="4.2s" fill="freeze"/></rect></clipPath>
+
+    <clipPath id="clip-footer"><rect x="36" y="389" width="0" height="22"><animate attributeName="width" from="0" to="580" dur="0.5s" begin="5.5s" fill="freeze"/></rect></clipPath>
+  </defs>
 
   <!-- Background -->
-  <rect width="680" height="420" rx="12" style="fill:rgb(13, 17, 23);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect width="680" height="420" rx="12" fill="#0d1117"/>
 
-  <!-- Grid lines for hacker feel -->
-  <line x1="0" y1="60" x2="680" y2="60" mask="url(#imagine-text-gaps-g8wvve)" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.08;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <line x1="0" y1="120" x2="680" y2="120" mask="url(#imagine-text-gaps-g8wvve)" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.08;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <line x1="0" y1="180" x2="680" y2="180" mask="url(#imagine-text-gaps-g8wvve)" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.08;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <line x1="0" y1="240" x2="680" y2="240" mask="url(#imagine-text-gaps-g8wvve)" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.08;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <line x1="0" y1="300" x2="680" y2="300" mask="url(#imagine-text-gaps-g8wvve)" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.08;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <line x1="0" y1="360" x2="680" y2="360" mask="url(#imagine-text-gaps-g8wvve)" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.08;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <line x1="170" y1="0" x2="170" y2="420" mask="url(#imagine-text-gaps-g8wvve)" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.08;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <line x1="340" y1="0" x2="340" y2="420" mask="url(#imagine-text-gaps-g8wvve)" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.08;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <line x1="510" y1="0" x2="510" y2="420" mask="url(#imagine-text-gaps-g8wvve)" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.08;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Grid lines -->
+  <g stroke="#1dba8a" stroke-width="0.3" opacity="0.07">
+    <line x1="0" y1="60" x2="680" y2="60"/>
+    <line x1="0" y1="120" x2="680" y2="120"/>
+    <line x1="0" y1="180" x2="680" y2="180"/>
+    <line x1="0" y1="240" x2="680" y2="240"/>
+    <line x1="0" y1="300" x2="680" y2="300"/>
+    <line x1="0" y1="360" x2="680" y2="360"/>
+    <line x1="170" y1="0" x2="170" y2="420"/>
+    <line x1="340" y1="0" x2="340" y2="420"/>
+    <line x1="510" y1="0" x2="510" y2="420"/>
+  </g>
 
-  <!-- Corner accents -->
-  <path d="M20 50 L20 20 L50 20" style="fill:none;stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <path d="M630 50 L630 20 L600 20" style="fill:none;stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <path d="M20 370 L20 400 L50 400" mask="url(#imagine-text-gaps-g8wvve)" style="fill:none;stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <path d="M630 370 L630 400 L600 400" mask="url(#imagine-text-gaps-g8wvve)" style="fill:none;stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-  <!-- Border -->
-  <rect x="10" y="10" width="660" height="400" rx="8" opacity="0.4" style="fill:none;stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-  <!-- Avatar circle -->
-  <circle cx="80" cy="90" r="40" fill="#0f3d2e" stroke="#1dba8a" stroke-width="1" style="fill:rgb(15, 61, 46);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="80" y="96" text-anchor="middle" fill="#1dba8a" font-family="Fira Code, monospace" font-size="22" font-weight="700" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:22px;font-weight:700;text-anchor:middle;dominant-baseline:auto">NS</text>
-
-  <!-- Online dot -->
-  <circle cx="112" cy="62" r="6" fill="#1dba8a" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <circle cx="112" cy="62" r="3" fill="#0d1117" style="fill:rgb(13, 17, 23);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-  <!-- Name + title -->
-  <text x="145" y="78" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:22px;font-weight:700;text-anchor:start;dominant-baseline:auto">Netanel Shen</text>
-  <text x="145" y="98" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">@Netanel-Shen</text>
-  <text x="145" y="116" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">🛡️ SOC Engineer  ·  🐍 Backend Dev  ·  🇮🇱 Israel</text>
-
-  <!-- Divider -->
-  <line x1="40" y1="140" x2="640" y2="140" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.3;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-  <!-- Terminal block left -->
-  <text x="40" y="165" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">~/about $</text>
-  <text x="130" y="165" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">cat profile.json</text>
-
-  <text x="40" y="188" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">{</text>
-  <text x="55" y="207" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">"role":</text>
-  <text x="110" y="207" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">"Software Engineer → SOC Engineer",</text>
-  <text x="55" y="225" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">"focus":</text>
-  <text x="115" y="225" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">["Detection Eng", "Wazuh", "Python"],</text>
-  <text x="55" y="243" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">"currently":</text>
-  <text x="140" y="243" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">"Building SOC Home Lab",</text>
-  <text x="55" y="261" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">"motto":</text>
-  <text x="113" y="261" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">"Build it. Break it. Secure it."</text>
-  <text x="40" y="279" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">}</text>
-
-  <!-- Divider vertical -->
-  <line x1="380" y1="148" x2="380" y2="310" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.3;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-  <!-- Stats panel right -->
-  <text x="400" y="165" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">~/stats $</text>
-  <text x="470" y="165" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">./summary</text>
-
-  <!-- Stat bars -->
-  <text x="400" y="192" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">commits 2026</text>
-  <rect x="400" y="198" width="220" height="6" rx="3" style="fill:rgb(28, 33, 40);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <rect x="400" y="198" width="150" height="6" rx="3" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="626" y="206" text-anchor="end" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto">30</text>
-
-  <text x="400" y="222" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">repos</text>
-  <rect x="400" y="228" width="220" height="6" rx="3" style="fill:rgb(28, 33, 40);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <rect x="400" y="228" width="40" height="6" rx="3" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="626" y="236" text-anchor="end" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto">4</text>
-
-  <text x="400" y="252" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">contributions</text>
-  <rect x="400" y="258" width="220" height="6" rx="3" style="fill:rgb(28, 33, 40);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <rect x="400" y="258" width="110" height="6" rx="3" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="626" y="266" text-anchor="end" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto">58</text>
-
-  <text x="400" y="282" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">streak</text>
-  <rect x="400" y="288" width="220" height="6" rx="3" style="fill:rgb(28, 33, 40);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <rect x="400" y="288" width="10" height="6" rx="3" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="626" y="296" text-anchor="end" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto">1d</text>
-
-  <!-- Divider -->
-  <line x1="40" y1="310" x2="640" y2="310" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.3;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-  <!-- Tech tags -->
-  <text x="40" y="333" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">~/stack $</text>
-  <text x="120" y="333" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">ls -la</text>
-
-  <!-- Tag pills -->
-  <rect x="40" y="344" width="68" height="22" rx="4" fill="#0f3d2e" style="fill:rgb(15, 61, 46);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="74" y="359" text-anchor="middle" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Python</text>
-
-  <rect x="116" y="344" width="48" height="22" rx="4" fill="#0f3d2e" style="fill:rgb(15, 61, 46);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="140" y="359" text-anchor="middle" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Java</text>
-
-  <rect x="172" y="344" width="56" height="22" rx="4" fill="#0f3d2e" style="fill:rgb(15, 61, 46);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="200" y="359" text-anchor="middle" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Docker</text>
-
-  <rect x="236" y="344" width="52" height="22" rx="4" fill="#0f3d2e" style="fill:rgb(15, 61, 46);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="262" y="359" text-anchor="middle" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Linux</text>
-
-  <rect x="296" y="344" width="44" height="22" rx="4" fill="#0f3d2e" style="fill:rgb(15, 61, 46);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="318" y="359" text-anchor="middle" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Git</text>
-
-  <rect x="348" y="344" width="62" height="22" rx="4" fill="#0f3d2e" style="fill:rgb(15, 61, 46);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="379" y="359" text-anchor="middle" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Wazuh</text>
-
-  <rect x="418" y="344" width="42" height="22" rx="4" fill="#0f3d2e" style="fill:rgb(15, 61, 46);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="439" y="359" text-anchor="middle" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">SOC</text>
-
-  <rect x="468" y="344" width="68" height="22" rx="4" fill="#0f3d2e" style="fill:rgb(15, 61, 46);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="502" y="359" text-anchor="middle" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Bash</text>
-
-  <!-- Blinking cursor -->
-  <rect x="544" y="344" width="8" height="22" rx="1" fill="#1dba8a" opacity="0.9" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.559554;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.2s" repeatCount="indefinite" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Border fade in -->
+  <rect x="10" y="10" width="660" height="400" rx="8" fill="none" stroke="#1dba8a" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.35" dur="0.5s" begin="0.1s" fill="freeze"/>
   </rect>
 
-  <!-- Footer -->
-  <line x1="40" y1="385" x2="640" y2="385" style="fill:rgb(0, 0, 0);stroke:rgb(29, 186, 138);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.3;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="40" y="403" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">github.com/Netanel-Shen</text>
-  <circle cx="620" cy="399" r="4" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.541571;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite" style="fill:rgb(29, 186, 138);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Corner accents draw in -->
+  <g fill="none" stroke="#1dba8a" stroke-width="1.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.2s" fill="freeze"/>
+    <path d="M20 50 L20 20 L50 20"/>
+    <path d="M630 50 L630 20 L600 20"/>
+    <path d="M20 370 L20 400 L50 400"/>
+    <path d="M630 370 L630 400 L600 400"/>
+  </g>
+
+  <!-- Avatar pop in -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.2s" fill="freeze"/>
+    <circle cx="80" cy="90" r="40" fill="#0f3d2e" stroke="#1dba8a" stroke-width="1"/>
+    <text x="80" y="96" text-anchor="middle" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="22" font-weight="700">NS</text>
+    <circle cx="112" cy="62" r="6" fill="#1dba8a"/>
+    <circle cx="112" cy="62" r="3" fill="#0d1117"/>
+  </g>
+
+  <!-- Name typewriter -->
+  <g clip-path="url(#clip-name)">
+    <text x="145" y="78" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="22" font-weight="700">Netanel Shen</text>
+  </g>
+  <g clip-path="url(#clip-sub1)">
+    <text x="145" y="98" fill="#8b949e" font-family="'Fira Code',monospace" font-size="13">@Netanel-Shen</text>
+  </g>
+  <g clip-path="url(#clip-sub2)">
+    <text x="145" y="116" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">Software Engineer · Backend Dev · Israel</text>
+  </g>
+
+  <!-- Divider 1 -->
+  <line x1="40" y1="140" x2="640" y2="140" stroke="#1dba8a" stroke-width="0.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.3" dur="0.3s" begin="0.9s" fill="freeze"/>
+  </line>
+
+  <!-- Terminal prompt left -->
+  <g clip-path="url(#clip-prompt1)">
+    <text x="40" y="165" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="12">~/about $ cat profile.json</text>
+  </g>
+
+  <!-- JSON block -->
+  <g clip-path="url(#clip-brace1)">
+    <text x="40" y="188" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">{</text>
+  </g>
+  <g clip-path="url(#clip-l1)">
+    <text x="51" y="207" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">"role": <tspan fill="#e6edf3">"Software Engineer → SOC Engineer",</tspan></text>
+  </g>
+  <g clip-path="url(#clip-l2)">
+    <text x="51" y="225" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">"focus": <tspan fill="#e6edf3">["Detection Eng", "Wazuh", "Python"],</tspan></text>
+  </g>
+  <g clip-path="url(#clip-l3)">
+    <text x="51" y="243" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">"currently": <tspan fill="#e6edf3">"Building SOC Home Lab",</tspan></text>
+  </g>
+  <g clip-path="url(#clip-l4)">
+    <text x="51" y="261" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">"motto": <tspan fill="#1dba8a">"Build it. Break it. Secure it."</tspan></text>
+  </g>
+  <g clip-path="url(#clip-brace2)">
+    <text x="40" y="279" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">}</text>
+  </g>
+
+  <!-- Vertical divider -->
+  <line x1="380" y1="148" x2="380" y2="310" stroke="#1dba8a" stroke-width="0.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.3" dur="0.3s" begin="0.9s" fill="freeze"/>
+  </line>
+
+  <!-- Stats prompt -->
+  <g clip-path="url(#clip-prompt2)">
+    <text x="396" y="165" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="12">~/stats $ ./summary</text>
+  </g>
+
+  <!-- Stat 1: commits -->
+  <g clip-path="url(#clip-stat1-lbl)">
+    <text x="396" y="192" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">commits 2026</text>
+  </g>
+  <rect x="396" y="198" width="220" height="6" rx="3" fill="#1c2128" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.7s" fill="freeze"/>
+  </rect>
+  <rect x="396" y="198" width="0" height="6" rx="3" fill="#1dba8a">
+    <animate attributeName="width" from="0" to="110" dur="0.6s" begin="1.8s" fill="freeze"/>
+  </rect>
+  <text x="626" y="206" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12" text-anchor="end" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.1s" fill="freeze"/>
+    30
+  </text>
+
+  <!-- Stat 2: repos -->
+  <g clip-path="url(#clip-stat2-lbl)">
+    <text x="396" y="222" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">repos</text>
+  </g>
+  <rect x="396" y="228" width="220" height="6" rx="3" fill="#1c2128" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.3s" fill="freeze"/>
+  </rect>
+  <rect x="396" y="228" width="0" height="6" rx="3" fill="#1dba8a">
+    <animate attributeName="width" from="0" to="44" dur="0.6s" begin="2.4s" fill="freeze"/>
+  </rect>
+  <text x="626" y="236" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12" text-anchor="end" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.7s" fill="freeze"/>
+    4
+  </text>
+
+  <!-- Stat 3: contributions -->
+  <g clip-path="url(#clip-stat3-lbl)">
+    <text x="396" y="252" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">contributions</text>
+  </g>
+  <rect x="396" y="258" width="220" height="6" rx="3" fill="#1c2128" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.9s" fill="freeze"/>
+  </rect>
+  <rect x="396" y="258" width="0" height="6" rx="3" fill="#1dba8a">
+    <animate attributeName="width" from="0" to="160" dur="0.6s" begin="3.0s" fill="freeze"/>
+  </rect>
+  <text x="626" y="266" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12" text-anchor="end" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.3s" fill="freeze"/>
+    58
+  </text>
+
+  <!-- Stat 4: streak -->
+  <g clip-path="url(#clip-stat4-lbl)">
+    <text x="396" y="282" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">streak</text>
+  </g>
+  <rect x="396" y="288" width="220" height="6" rx="3" fill="#1c2128" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.5s" fill="freeze"/>
+  </rect>
+  <rect x="396" y="288" width="0" height="6" rx="3" fill="#1dba8a">
+    <animate attributeName="width" from="0" to="22" dur="0.6s" begin="3.6s" fill="freeze"/>
+  </rect>
+  <text x="626" y="296" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12" text-anchor="end" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.9s" fill="freeze"/>
+    1d
+  </text>
+
+  <!-- Divider 2 -->
+  <line x1="40" y1="310" x2="640" y2="310" stroke="#1dba8a" stroke-width="0.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.3" dur="0.3s" begin="4.1s" fill="freeze"/>
+  </line>
+
+  <!-- Stack prompt -->
+  <g clip-path="url(#clip-prompt3)">
+    <text x="40" y="333" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="12">~/stack $ ls -la</text>
+  </g>
+
+  <!-- Tags pop in one by one -->
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.4s" fill="freeze"/>
+    <rect x="40"  y="344" width="68" height="22" rx="4" fill="#0f3d2e"/>
+    <text x="74"  y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Python</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.55s" fill="freeze"/>
+    <rect x="116" y="344" width="48" height="22" rx="4" fill="#0f3d2e"/>
+    <text x="140" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Java</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.7s" fill="freeze"/>
+    <rect x="172" y="344" width="56" height="22" rx="4" fill="#0f3d2e"/>
+    <text x="200" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Docker</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.85s" fill="freeze"/>
+    <rect x="236" y="344" width="52" height="22" rx="4" fill="#0f3d2e"/>
+    <text x="262" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Linux</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="5.0s" fill="freeze"/>
+    <rect x="296" y="344" width="44" height="22" rx="4" fill="#0f3d2e"/>
+    <text x="318" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Git</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="5.15s" fill="freeze"/>
+    <rect x="348" y="344" width="62" height="22" rx="4" fill="#0f3d2e"/>
+    <text x="379" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Wazuh</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="5.3s" fill="freeze"/>
+    <rect x="418" y="344" width="42" height="22" rx="4" fill="#0f3d2e"/>
+    <text x="439" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">SOC</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="5.45s" fill="freeze"/>
+    <rect x="468" y="344" width="68" height="22" rx="4" fill="#0f3d2e"/>
+    <text x="502" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Bash</text>
+  </g>
+
+  <!-- Blinking cursor -->
+  <rect x="544" y="344" width="8" height="22" rx="1" fill="#1dba8a" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="5.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="5.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Footer divider + text typewriter -->
+  <line x1="40" y1="385" x2="640" y2="385" stroke="#1dba8a" stroke-width="0.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.3" dur="0.3s" begin="5.5s" fill="freeze"/>
+  </line>
+  <g clip-path="url(#clip-footer)">
+    <text x="40" y="403" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">github.com/Netanel-Shen</text>
+  </g>
+  <circle cx="620" cy="399" r="4" fill="#1dba8a" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="5.7s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="5.7s" repeatCount="indefinite"/>
   </circle>
-  <text x="610" y="403" text-anchor="end" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Fira Code&quot;, monospace;font-size:12px;font-weight:400;text-anchor:end;dominant-baseline:auto">online</text>
+  <text x="614" y="403" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12" text-anchor="end" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="5.7s" fill="freeze"/>
+    online
+  </text>
+
 </svg>
