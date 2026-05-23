@@ -90,26 +90,26 @@
 
   <!-- JSON block -->
   <g clip-path="url(#clip-brace1)">
-    <text x="28" y="138" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">{</text>
+    <text x="26" y="138" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">{</text>
   </g>
   <g clip-path="url(#clip-l1)">
-    <text x="38" y="154" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"role": <tspan fill="#e6edf3">"Software Engineer → Cyber Security",</tspan></text>
+    <text x="38" y="154" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"role":<tspan fill="#e6edf3">"Software Engineer → Cyber Security",</tspan></text>
   </g>
   <g clip-path="url(#clip-l2)">
-    <text x="38" y="170" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"focus": <tspan fill="#e6edf3">["SOC", "Malware Analysis", "Python"],</tspan></text>
+    <text x="38" y="170" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"focus":<tspan fill="#e6edf3">["SOC", "Malware Analysis", "Python"],</tspan></text>
   </g>
   <g clip-path="url(#clip-l3)">
-    <text x="38" y="186" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"currently": <tspan fill="#e6edf3">"Exploring all things Cyber",</tspan></text>
+    <text x="38" y="186" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"currently":<tspan fill="#e6edf3">"Exploring all things Cyber",</tspan></text>
   </g>
   <g clip-path="url(#clip-l4)">
-    <text x="38" y="202" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"motto": <tspan fill="#1dba8a">"Build it. Break it. Secure it."</tspan></text>
+    <text x="38" y="202" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"motto":<tspan fill="#1dba8a">"Build it. Break it. Secure it."</tspan></text>
   </g>
   <g clip-path="url(#clip-brace2)">
     <text x="28" y="218" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">}</text>
   </g>
 
   <!-- Vertical divider -->
-  <line x1="286" y1="108" x2="286" y2="238" stroke="#1dba8a" stroke-width="0.5" opacity="0">
+  <line x1="290" y1="108" x2="286" y2="238" stroke="#1dba8a" stroke-width="0.5" opacity="0">
     <animate attributeName="opacity" from="0" to="0.3" dur="0.3s" begin="0.9s" fill="freeze"/>
   </line>
 
