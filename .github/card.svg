@@ -1,248 +1,237 @@
-<svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="100%" viewBox="0 0 520 320" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Netanel Shen – GitHub Profile Card</title>
   <desc>Animated profile card for Netanel Shen, SOC Engineer and backend developer</desc>
 
   <defs>
-    <!-- Typewriter clip paths - each reveals text left to right -->
-    <clipPath id="clip-name"><rect x="145" y="55" width="0" height="30"><animate attributeName="width" from="0" to="300" dur="0.6s" begin="0.4s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip-sub1"><rect x="145" y="82" width="0" height="22"><animate attributeName="width" from="0" to="200" dur="0.4s" begin="1.0s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip-sub2"><rect x="145" y="102" width="0" height="22"><animate attributeName="width" from="0" to="400" dur="0.6s" begin="1.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-name"><rect x="110" y="38" width="0" height="26"><animate attributeName="width" from="0" to="250" dur="0.6s" begin="0.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-sub1"><rect x="110" y="60" width="0" height="18"><animate attributeName="width" from="0" to="180" dur="0.4s" begin="1.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-sub2"><rect x="110" y="76" width="0" height="18"><animate attributeName="width" from="0" to="330" dur="0.5s" begin="1.4s" fill="freeze"/></rect></clipPath>
 
-    <clipPath id="clip-prompt1"><rect x="40" y="152" width="0" height="20"><animate attributeName="width" from="0" to="220" dur="0.4s" begin="1.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-prompt1"><rect x="28" y="112" width="0" height="16"><animate attributeName="width" from="0" to="210" dur="0.4s" begin="1.0s" fill="freeze"/></rect></clipPath>
 
-    <clipPath id="clip-brace1"><rect x="36" y="174" width="0" height="20"><animate attributeName="width" from="0" to="20" dur="0.1s" begin="1.5s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip-l1"><rect x="51" y="193" width="0" height="20"><animate attributeName="width" from="0" to="340" dur="0.5s" begin="1.6s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip-l2"><rect x="51" y="211" width="0" height="20"><animate attributeName="width" from="0" to="360" dur="0.5s" begin="2.2s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip-l3"><rect x="51" y="229" width="0" height="20"><animate attributeName="width" from="0" to="310" dur="0.5s" begin="2.8s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip-l4"><rect x="51" y="247" width="0" height="20"><animate attributeName="width" from="0" to="320" dur="0.5s" begin="3.4s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip-brace2"><rect x="36" y="265" width="0" height="20"><animate attributeName="width" from="0" to="20" dur="0.1s" begin="4.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-brace1"><rect x="28" y="128" width="0" height="16"><animate attributeName="width" from="0" to="16" dur="0.1s" begin="1.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-l1"><rect x="38" y="144" width="0" height="16"><animate attributeName="width" from="0" to="310" dur="0.5s" begin="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-l2"><rect x="38" y="160" width="0" height="16"><animate attributeName="width" from="0" to="310" dur="0.5s" begin="2.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-l3"><rect x="38" y="176" width="0" height="16"><animate attributeName="width" from="0" to="280" dur="0.5s" begin="2.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-l4"><rect x="38" y="192" width="0" height="16"><animate attributeName="width" from="0" to="290" dur="0.5s" begin="3.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-brace2"><rect x="28" y="208" width="0" height="16"><animate attributeName="width" from="0" to="16" dur="0.1s" begin="4.0s" fill="freeze"/></rect></clipPath>
 
-    <clipPath id="clip-prompt2"><rect x="396" y="152" width="0" height="20"><animate attributeName="width" from="0" to="160" dur="0.4s" begin="1.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-prompt2"><rect x="295" y="112" width="0" height="16"><animate attributeName="width" from="0" to="180" dur="0.4s" begin="1.0s" fill="freeze"/></rect></clipPath>
 
-    <clipPath id="clip-stat1-lbl"><rect x="396" y="178" width="0" height="20"><animate attributeName="width" from="0" to="140" dur="0.3s" begin="1.6s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip-stat2-lbl"><rect x="396" y="208" width="0" height="20"><animate attributeName="width" from="0" to="80" dur="0.3s" begin="2.2s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip-stat3-lbl"><rect x="396" y="238" width="0" height="20"><animate attributeName="width" from="0" to="150" dur="0.3s" begin="2.8s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clip-stat4-lbl"><rect x="396" y="268" width="0" height="20"><animate attributeName="width" from="0" to="80" dur="0.3s" begin="3.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-stat1-lbl"><rect x="295" y="132" width="0" height="16"><animate attributeName="width" from="0" to="120" dur="0.3s" begin="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-stat2-lbl"><rect x="295" y="162" width="0" height="16"><animate attributeName="width" from="0" to="70" dur="0.3s" begin="2.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-stat3-lbl"><rect x="295" y="192" width="0" height="16"><animate attributeName="width" from="0" to="130" dur="0.3s" begin="2.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-stat4-lbl"><rect x="295" y="222" width="0" height="16"><animate attributeName="width" from="0" to="70" dur="0.3s" begin="3.4s" fill="freeze"/></rect></clipPath>
 
-    <clipPath id="clip-prompt3"><rect x="36" y="319" width="0" height="20"><animate attributeName="width" from="0" to="160" dur="0.4s" begin="4.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-prompt3"><rect x="28" y="244" width="0" height="16"><animate attributeName="width" from="0" to="150" dur="0.4s" begin="4.2s" fill="freeze"/></rect></clipPath>
 
-    <clipPath id="clip-footer"><rect x="36" y="389" width="0" height="22"><animate attributeName="width" from="0" to="580" dur="0.5s" begin="5.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clip-footer"><rect x="28" y="298" width="0" height="18"><animate attributeName="width" from="0" to="440" dur="0.5s" begin="5.5s" fill="freeze"/></rect></clipPath>
   </defs>
 
   <!-- Background -->
-  <rect width="680" height="420" rx="12" fill="#0d1117"/>
+  <rect width="520" height="320" rx="10" fill="#0d1117"/>
 
   <!-- Grid lines -->
   <g stroke="#1dba8a" stroke-width="0.3" opacity="0.07">
-    <line x1="0" y1="60" x2="680" y2="60"/>
-    <line x1="0" y1="120" x2="680" y2="120"/>
-    <line x1="0" y1="180" x2="680" y2="180"/>
-    <line x1="0" y1="240" x2="680" y2="240"/>
-    <line x1="0" y1="300" x2="680" y2="300"/>
-    <line x1="0" y1="360" x2="680" y2="360"/>
-    <line x1="170" y1="0" x2="170" y2="420"/>
-    <line x1="340" y1="0" x2="340" y2="420"/>
-    <line x1="510" y1="0" x2="510" y2="420"/>
+    <line x1="0" y1="50" x2="520" y2="50"/>
+    <line x1="0" y1="100" x2="520" y2="100"/>
+    <line x1="0" y1="150" x2="520" y2="150"/>
+    <line x1="0" y1="200" x2="520" y2="200"/>
+    <line x1="0" y1="250" x2="520" y2="250"/>
+    <line x1="0" y1="300" x2="520" y2="300"/>
+    <line x1="130" y1="0" x2="130" y2="320"/>
+    <line x1="260" y1="0" x2="260" y2="320"/>
+    <line x1="390" y1="0" x2="390" y2="320"/>
   </g>
 
-  <!-- Border fade in -->
-  <rect x="10" y="10" width="660" height="400" rx="8" fill="none" stroke="#1dba8a" stroke-width="1" opacity="0">
+  <!-- Border -->
+  <rect x="8" y="8" width="504" height="304" rx="7" fill="none" stroke="#1dba8a" stroke-width="1" opacity="0">
     <animate attributeName="opacity" from="0" to="0.35" dur="0.5s" begin="0.1s" fill="freeze"/>
   </rect>
 
-  <!-- Corner accents draw in -->
+  <!-- Corner accents -->
   <g fill="none" stroke="#1dba8a" stroke-width="1.5" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.2s" fill="freeze"/>
-    <path d="M20 50 L20 20 L50 20"/>
-    <path d="M630 50 L630 20 L600 20"/>
-    <path d="M20 370 L20 400 L50 400"/>
-    <path d="M630 370 L630 400 L600 400"/>
+    <path d="M16 38 L16 16 L38 16"/>
+    <path d="M484 38 L484 16 L462 16"/>
+    <path d="M16 282 L16 304 L38 304"/>
+    <path d="M484 282 L484 304 L462 304"/>
   </g>
 
-  <!-- Avatar pop in -->
+  <!-- Avatar -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.2s" fill="freeze"/>
-    <circle cx="80" cy="90" r="40" fill="#0f3d2e" stroke="#1dba8a" stroke-width="1"/>
-    <text x="80" y="96" text-anchor="middle" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="22" font-weight="700">NS</text>
-    <circle cx="112" cy="62" r="6" fill="#1dba8a"/>
-    <circle cx="112" cy="62" r="3" fill="#0d1117"/>
+    <circle cx="62" cy="68" r="30" fill="#0f3d2e" stroke="#1dba8a" stroke-width="1"/>
+    <text x="62" y="74" text-anchor="middle" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="16" font-weight="700">NS</text>
+    <circle cx="86" cy="46" r="5" fill="#1dba8a"/>
+    <circle cx="86" cy="46" r="2.5" fill="#0d1117"/>
   </g>
 
   <!-- Name typewriter -->
   <g clip-path="url(#clip-name)">
-    <text x="145" y="78" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="22" font-weight="700">Netanel Shen</text>
+    <text x="110" y="56" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="17" font-weight="700">Netanel Shen</text>
   </g>
   <g clip-path="url(#clip-sub1)">
-    <text x="145" y="98" fill="#8b949e" font-family="'Fira Code',monospace" font-size="13">@Netanel-Shen</text>
+    <text x="110" y="72" fill="#8b949e" font-family="'Fira Code',monospace" font-size="11">@Netanel-Shen</text>
   </g>
   <g clip-path="url(#clip-sub2)">
-    <text x="145" y="116" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">Software Engineer · Backend Dev · Israel</text>
+    <text x="110" y="86" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">SOC Engineer · Backend Dev · Israel</text>
   </g>
 
   <!-- Divider 1 -->
-  <line x1="40" y1="140" x2="640" y2="140" stroke="#1dba8a" stroke-width="0.5" opacity="0">
+  <line x1="28" y1="102" x2="492" y2="102" stroke="#1dba8a" stroke-width="0.5" opacity="0">
     <animate attributeName="opacity" from="0" to="0.3" dur="0.3s" begin="0.9s" fill="freeze"/>
   </line>
 
   <!-- Terminal prompt left -->
   <g clip-path="url(#clip-prompt1)">
-    <text x="40" y="165" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="12">~/about $ cat profile.json</text>
+    <text x="28" y="122" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="10">~/about $ cat profile.json</text>
   </g>
 
   <!-- JSON block -->
   <g clip-path="url(#clip-brace1)">
-    <text x="40" y="188" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">{</text>
+    <text x="28" y="138" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">{</text>
   </g>
   <g clip-path="url(#clip-l1)">
-    <text x="51" y="207" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">"role": <tspan fill="#e6edf3">"Software Engineer → SOC Engineer",</tspan></text>
+    <text x="38" y="154" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"role": <tspan fill="#e6edf3">"Software Engineer → SOC Engineer",</tspan></text>
   </g>
   <g clip-path="url(#clip-l2)">
-    <text x="51" y="225" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">"focus": <tspan fill="#e6edf3">["Detection Eng", "Wazuh", "Python"],</tspan></text>
+    <text x="38" y="170" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"focus": <tspan fill="#e6edf3">["Detection Eng", "Wazuh", "Python"],</tspan></text>
   </g>
   <g clip-path="url(#clip-l3)">
-    <text x="51" y="243" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">"currently": <tspan fill="#e6edf3">"Building SOC Home Lab",</tspan></text>
+    <text x="38" y="186" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"currently": <tspan fill="#e6edf3">"Building SOC Home Lab",</tspan></text>
   </g>
   <g clip-path="url(#clip-l4)">
-    <text x="51" y="261" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">"motto": <tspan fill="#1dba8a">"Build it. Break it. Secure it."</tspan></text>
+    <text x="38" y="202" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"motto": <tspan fill="#1dba8a">"Build it. Break it. Secure it."</tspan></text>
   </g>
   <g clip-path="url(#clip-brace2)">
-    <text x="40" y="279" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">}</text>
+    <text x="28" y="218" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">}</text>
   </g>
 
   <!-- Vertical divider -->
-  <line x1="380" y1="148" x2="380" y2="310" stroke="#1dba8a" stroke-width="0.5" opacity="0">
+  <line x1="286" y1="108" x2="286" y2="238" stroke="#1dba8a" stroke-width="0.5" opacity="0">
     <animate attributeName="opacity" from="0" to="0.3" dur="0.3s" begin="0.9s" fill="freeze"/>
   </line>
 
   <!-- Stats prompt -->
   <g clip-path="url(#clip-prompt2)">
-    <text x="396" y="165" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="12">~/stats $ ./summary</text>
+    <text x="295" y="122" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="10">~/stats $ ./summary</text>
   </g>
 
-  <!-- Stat 1: commits -->
+  <!-- Stat 1 -->
   <g clip-path="url(#clip-stat1-lbl)">
-    <text x="396" y="192" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">commits 2026</text>
+    <text x="295" y="136" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">commits 2026</text>
   </g>
-  <rect x="396" y="198" width="220" height="6" rx="3" fill="#1c2128" opacity="0">
+  <rect x="295" y="140" width="178" height="5" rx="2.5" fill="#1c2128" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.7s" fill="freeze"/>
   </rect>
-  <rect x="396" y="198" width="0" height="6" rx="3" fill="#1dba8a">
-    <animate attributeName="width" from="0" to="110" dur="0.6s" begin="1.8s" fill="freeze"/>
+  <rect x="295" y="140" width="0" height="5" rx="2.5" fill="#1dba8a">
+    <animate attributeName="width" from="0" to="89" dur="0.6s" begin="1.8s" fill="freeze"/>
   </rect>
-  <text x="626" y="206" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12" text-anchor="end" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.1s" fill="freeze"/>
-    30
-  </text>
+  <text x="480" y="148" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10" text-anchor="end" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.1s" fill="freeze"/>30</text>
 
-  <!-- Stat 2: repos -->
+  <!-- Stat 2 -->
   <g clip-path="url(#clip-stat2-lbl)">
-    <text x="396" y="222" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">repos</text>
+    <text x="295" y="166" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">repos</text>
   </g>
-  <rect x="396" y="228" width="220" height="6" rx="3" fill="#1c2128" opacity="0">
+  <rect x="295" y="170" width="178" height="5" rx="2.5" fill="#1c2128" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.3s" fill="freeze"/>
   </rect>
-  <rect x="396" y="228" width="0" height="6" rx="3" fill="#1dba8a">
-    <animate attributeName="width" from="0" to="44" dur="0.6s" begin="2.4s" fill="freeze"/>
+  <rect x="295" y="170" width="0" height="5" rx="2.5" fill="#1dba8a">
+    <animate attributeName="width" from="0" to="36" dur="0.6s" begin="2.4s" fill="freeze"/>
   </rect>
-  <text x="626" y="236" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12" text-anchor="end" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.7s" fill="freeze"/>
-    4
-  </text>
+  <text x="480" y="178" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10" text-anchor="end" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.7s" fill="freeze"/>4</text>
 
-  <!-- Stat 3: contributions -->
+  <!-- Stat 3 -->
   <g clip-path="url(#clip-stat3-lbl)">
-    <text x="396" y="252" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">contributions</text>
+    <text x="295" y="196" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">contributions</text>
   </g>
-  <rect x="396" y="258" width="220" height="6" rx="3" fill="#1c2128" opacity="0">
+  <rect x="295" y="200" width="178" height="5" rx="2.5" fill="#1c2128" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.9s" fill="freeze"/>
   </rect>
-  <rect x="396" y="258" width="0" height="6" rx="3" fill="#1dba8a">
-    <animate attributeName="width" from="0" to="160" dur="0.6s" begin="3.0s" fill="freeze"/>
+  <rect x="295" y="200" width="0" height="5" rx="2.5" fill="#1dba8a">
+    <animate attributeName="width" from="0" to="130" dur="0.6s" begin="3.0s" fill="freeze"/>
   </rect>
-  <text x="626" y="266" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12" text-anchor="end" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.3s" fill="freeze"/>
-    58
-  </text>
+  <text x="480" y="208" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10" text-anchor="end" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.3s" fill="freeze"/>58</text>
 
-  <!-- Stat 4: streak -->
+  <!-- Stat 4 -->
   <g clip-path="url(#clip-stat4-lbl)">
-    <text x="396" y="282" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">streak</text>
+    <text x="295" y="226" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">streak</text>
   </g>
-  <rect x="396" y="288" width="220" height="6" rx="3" fill="#1c2128" opacity="0">
+  <rect x="295" y="230" width="178" height="5" rx="2.5" fill="#1c2128" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.5s" fill="freeze"/>
   </rect>
-  <rect x="396" y="288" width="0" height="6" rx="3" fill="#1dba8a">
-    <animate attributeName="width" from="0" to="22" dur="0.6s" begin="3.6s" fill="freeze"/>
+  <rect x="295" y="230" width="0" height="5" rx="2.5" fill="#1dba8a">
+    <animate attributeName="width" from="0" to="18" dur="0.6s" begin="3.6s" fill="freeze"/>
   </rect>
-  <text x="626" y="296" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12" text-anchor="end" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.9s" fill="freeze"/>
-    1d
-  </text>
+  <text x="480" y="238" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10" text-anchor="end" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.9s" fill="freeze"/>1d</text>
 
   <!-- Divider 2 -->
-  <line x1="40" y1="310" x2="640" y2="310" stroke="#1dba8a" stroke-width="0.5" opacity="0">
+  <line x1="28" y1="238" x2="492" y2="238" stroke="#1dba8a" stroke-width="0.5" opacity="0">
     <animate attributeName="opacity" from="0" to="0.3" dur="0.3s" begin="4.1s" fill="freeze"/>
   </line>
 
   <!-- Stack prompt -->
   <g clip-path="url(#clip-prompt3)">
-    <text x="40" y="333" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="12">~/stack $ ls -la</text>
+    <text x="28" y="254" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="10">~/stack $ ls -la</text>
   </g>
 
-  <!-- Tags pop in one by one -->
-  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.4s" fill="freeze"/>
-    <rect x="40"  y="344" width="68" height="22" rx="4" fill="#0f3d2e"/>
-    <text x="74"  y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Python</text>
+  <!-- Tags -->
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="4.4s" fill="freeze"/>
+    <rect x="28"  y="262" width="52" height="18" rx="3" fill="#0f3d2e"/>
+    <text x="54"  y="275" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="9" text-anchor="middle">Python</text>
   </g>
-  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.55s" fill="freeze"/>
-    <rect x="116" y="344" width="48" height="22" rx="4" fill="#0f3d2e"/>
-    <text x="140" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Java</text>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="4.55s" fill="freeze"/>
+    <rect x="86"  y="262" width="38" height="18" rx="3" fill="#0f3d2e"/>
+    <text x="105" y="275" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="9" text-anchor="middle">Java</text>
   </g>
-  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.7s" fill="freeze"/>
-    <rect x="172" y="344" width="56" height="22" rx="4" fill="#0f3d2e"/>
-    <text x="200" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Docker</text>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="4.7s" fill="freeze"/>
+    <rect x="130" y="262" width="44" height="18" rx="3" fill="#0f3d2e"/>
+    <text x="152" y="275" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="9" text-anchor="middle">Docker</text>
   </g>
-  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.85s" fill="freeze"/>
-    <rect x="236" y="344" width="52" height="22" rx="4" fill="#0f3d2e"/>
-    <text x="262" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Linux</text>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="4.85s" fill="freeze"/>
+    <rect x="180" y="262" width="40" height="18" rx="3" fill="#0f3d2e"/>
+    <text x="200" y="275" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="9" text-anchor="middle">Linux</text>
   </g>
-  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="5.0s" fill="freeze"/>
-    <rect x="296" y="344" width="44" height="22" rx="4" fill="#0f3d2e"/>
-    <text x="318" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Git</text>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="5.0s" fill="freeze"/>
+    <rect x="226" y="262" width="34" height="18" rx="3" fill="#0f3d2e"/>
+    <text x="243" y="275" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="9" text-anchor="middle">Git</text>
   </g>
-  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="5.15s" fill="freeze"/>
-    <rect x="348" y="344" width="62" height="22" rx="4" fill="#0f3d2e"/>
-    <text x="379" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Wazuh</text>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="5.15s" fill="freeze"/>
+    <rect x="266" y="262" width="48" height="18" rx="3" fill="#0f3d2e"/>
+    <text x="290" y="275" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="9" text-anchor="middle">Wazuh</text>
   </g>
-  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="5.3s" fill="freeze"/>
-    <rect x="418" y="344" width="42" height="22" rx="4" fill="#0f3d2e"/>
-    <text x="439" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">SOC</text>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="5.3s" fill="freeze"/>
+    <rect x="320" y="262" width="34" height="18" rx="3" fill="#0f3d2e"/>
+    <text x="337" y="275" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="9" text-anchor="middle">SOC</text>
   </g>
-  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="5.45s" fill="freeze"/>
-    <rect x="468" y="344" width="68" height="22" rx="4" fill="#0f3d2e"/>
-    <text x="502" y="359" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="11" text-anchor="middle">Bash</text>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="5.45s" fill="freeze"/>
+    <rect x="360" y="262" width="38" height="18" rx="3" fill="#0f3d2e"/>
+    <text x="379" y="275" fill="#1dba8a" font-family="'Fira Code',monospace" font-size="9" text-anchor="middle">Bash</text>
   </g>
 
   <!-- Blinking cursor -->
-  <rect x="544" y="344" width="8" height="22" rx="1" fill="#1dba8a" opacity="0">
+  <rect x="404" y="262" width="6" height="18" rx="1" fill="#1dba8a" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="5.6s" fill="freeze"/>
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="5.6s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Footer divider + text typewriter -->
-  <line x1="40" y1="385" x2="640" y2="385" stroke="#1dba8a" stroke-width="0.5" opacity="0">
+  <!-- Footer -->
+  <line x1="28" y1="292" x2="492" y2="292" stroke="#1dba8a" stroke-width="0.5" opacity="0">
     <animate attributeName="opacity" from="0" to="0.3" dur="0.3s" begin="5.5s" fill="freeze"/>
   </line>
   <g clip-path="url(#clip-footer)">
-    <text x="40" y="403" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12">github.com/Netanel-Shen</text>
+    <text x="28" y="308" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">github.com/Netanel-Shen</text>
   </g>
-  <circle cx="620" cy="399" r="4" fill="#1dba8a" opacity="0">
+  <circle cx="478" cy="304" r="4" fill="#1dba8a" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="5.7s" fill="freeze"/>
     <animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="5.7s" repeatCount="indefinite"/>
   </circle>
-  <text x="614" y="403" fill="#8b949e" font-family="'Fira Code',monospace" font-size="12" text-anchor="end" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="5.7s" fill="freeze"/>
-    online
-  </text>
+  <text x="472" y="308" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10" text-anchor="end" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="5.7s" fill="freeze"/>online</text>
 
 </svg>
