@@ -96,7 +96,7 @@
     <text x="38" y="154" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"role": <tspan fill="#e6edf3">"Software Engineer → Cyber Security",</tspan></text>
   </g>
   <g clip-path="url(#clip-l2)">
-    <text x="38" y="170" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"focus": <tspan fill="#e6edf3">[["SOC", "Malware Analysis", "Python"],</tspan></text>
+    <text x="38" y="170" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"focus": <tspan fill="#e6edf3">["SOC", "Malware Analysis", "Python"],</tspan></text>
   </g>
   <g clip-path="url(#clip-l3)">
     <text x="38" y="186" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10">"currently": <tspan fill="#e6edf3">"Exploring all things Cyber",</tspan></text>
