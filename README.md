@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Netanel%20Shen&desc=Software%20Engineer&descAlign=50&descAlignY=76&descSize=25fontSize=40&fontColor=ffffff"/>
 
 
+
 ---
 
 ## About Me
@@ -31,10 +32,4 @@
 - Backend systems
 - Automation tooling
 
----
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
