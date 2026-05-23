@@ -1,35 +1,98 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Netanel%20Shen&desc=Software%20Engineer&descAlign=50&descAlignY=76&descSize=25fontSize=40&fontColor=ffffff"/>
+<div align="center">
 
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Netanel%20Shen&fontSize=60&fontColor=00FFD1&desc=SOC%20Engineer%20%7C%20Backend%20Dev%20%7C%20Cyber%20Builder&descSize=18&descColor=a0f0e0&animation=fadeIn&fontAlignY=38&descAlignY=60" />
 
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+Building+SOC+Detection+Labs;%F0%9F%90%8D+Writing+Python+%26+Backend+Systems;%F0%9F%94%8D+Interested+in+Cybersecurity;%F0%9F%A4%96+Automating+Everything+I+Can;%F0%9F%9A%80+Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
----
+<br/>
 
-## About Me
+<!-- Social badges -->
+[![GitHub followers](https://img.shields.io/github/followers/Netanel-Shen?label=Follow&style=social)](https://github.com/Netanel-Shen)
+![Profile Views](https://komarev.com/ghpvc/?username=Netanel-Shen&color=00FFD1&style=flat-square&label=Profile+Views)
 
-- Building cybersecurity & backend projects
-- Interested in SOC engineering and infrastructure
-- Learning by creating practical systems
-- Focused on improving problem solving and software engineering skills
-
----
-
-## Tech Stack
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</p>
+</div>
 
 ---
 
-## Current Focus
+## 🧠 About Me
 
-- Wazuh SOC Home Lab
-- Detection engineering
-- Backend systems
-- Automation tooling
+```python
+class NetanelShen:
+    location   = "🇮🇱 Israel"
+    role       = "Software Engineer → SOC Engineer"
+    interests  = ["Cybersecurity", "Backend Dev", "Detection Engineering", "Automation"]
+    current    = ["Wazuh SOC Home Lab", "Detection Rules", "Python Tools"]
+    motto      = "Build it. Break it. Secure it."
+```
 
+---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python&logoColor=00FFD1)
+![Java](https://img.shields.io/badge/Java-0F2027?style=for-the-badge&logo=openjdk&logoColor=00FFD1)
+![Bash](https://img.shields.io/badge/Bash-0F2027?style=for-the-badge&logo=gnubash&logoColor=00FFD1)
+
+<!-- Tools -->
+![Docker](https://img.shields.io/badge/Docker-0F2027?style=for-the-badge&logo=docker&logoColor=00FFD1)
+![Linux](https://img.shields.io/badge/Linux-0F2027?style=for-the-badge&logo=linux&logoColor=00FFD1)
+![Git](https://img.shields.io/badge/Git-0F2027?style=for-the-badge&logo=git&logoColor=00FFD1)
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-0F2027?style=for-the-badge&logo=shield&logoColor=00FFD1)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Netanel-Shen&show_icons=true&theme=chartreuse-dark&bg_color=0F2027&title_color=00FFD1&icon_color=00FFD1&text_color=a0f0e0&border_color=00FFD1&hide_border=false&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netanel-Shen&layout=compact&theme=chartreuse-dark&bg_color=0F2027&title_color=00FFD1&text_color=a0f0e0&border_color=00FFD1&hide_border=false" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Netanel-Shen&theme=dark&background=0F2027&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1&border=00FFD1&stroke=00FFD1&sideLabels=a0f0e0&dates=a0f0e0&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Netanel-Shen/Netanel-Shen/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Netanel-Shen/Netanel-Shen/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Netanel-Shen/Netanel-Shen/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🔭 Current Focus
+
+| Area | What I'm Building |
+|------|------------------|
+| 🛡️ **SOC Lab** | Wazuh SIEM with custom detection rules |
+| 🐍 **Python** | Security automation & backend tooling |
+| 📡 **Detection Engineering** | Threat hunting & alert tuning |
+| ⚙️ **Infrastructure** | Homelab, Docker, Linux hardening |
+
+---
+
+<div align="center">
+
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />
+
+</div>
