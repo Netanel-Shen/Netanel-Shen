@@ -21,7 +21,7 @@
 ```python
 class NetanelShen:
     location   = "🇮🇱 Israel"
-    role       = "Software Engineer → SOC Engineer"
+    role       = "Software Engineer → Cybersecurity"
     interests  = ["Cybersecurity", "Backend Dev", "Detection Engineering", "Automation"]
     current    = ["Wazuh SOC Home Lab", "Detection Rules", "Python Tools"]
     motto      = "Build it. Break it. Secure it."
