@@ -41,54 +41,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Netanel-Shen&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Netanel-Shen&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Netanel-Shen&theme=github_dark&utcOffset=3)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Netanel-Shen&theme=dark&background=0F2027&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1&border=00FFD1&stroke=00FFD1&sideLabels=a0f0e0&dates=a0f0e0&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Netanel-Shen/Netanel-Shen/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Netanel-Shen/Netanel-Shen/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Netanel-Shen/Netanel-Shen/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🔭 Current Focus
-
-| Area | What I'm Building |
-|------|------------------|
-| 🛡️ **SOC Lab** | Wazuh SIEM with custom detection rules |
-| 🐍 **Python** | Security automation & backend tooling |
-| 📡 **Detection Engineering** | Threat hunting & alert tuning |
-| ⚙️ **Infrastructure** | Homelab, Docker, Linux hardening |
-
----
-
-
-
 <div align="center">
 
 <!-- Footer banner -->
