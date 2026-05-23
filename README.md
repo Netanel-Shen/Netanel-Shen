@@ -52,8 +52,10 @@ class NetanelShen:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Netanel-Shen&show_icons=true&theme=chartreuse-dark&bg_color=0F2027&title_color=00FFD1&icon_color=00FFD1&text_color=a0f0e0&border_color=00FFD1&hide_border=false&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netanel-Shen&layout=compact&theme=chartreuse-dark&bg_color=0F2027&title_color=00FFD1&text_color=a0f0e0&border_color=00FFD1&hide_border=false" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Netanel-Shen&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Netanel-Shen&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Netanel-Shen&theme=github_dark&utcOffset=3)
 
 </div>
 
