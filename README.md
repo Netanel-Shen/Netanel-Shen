@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Netanel%20Shen&fontSize=60&fontColor=00FFD1&desc=SOC%20Engineer%20%7C%20Backend%20Dev%20%7C%20Cyber%20Builder&descSize=18&descColor=a0f0e0&animation=fadeIn&fontAlignY=38&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Netanel%20Shen&fontSize=60&fontColor=00FFD1&desc=Software%20Engineer%20%7C%20Backend%20Dev%20%7C%20Cyber%20Builder&descSize=18&descColor=a0f0e0&animation=fadeIn&fontAlignY=38&descAlignY=60" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+Building+SOC+Detection+Labs;%F0%9F%90%8D+Writing+Python+%26+Backend+Systems;%F0%9F%94%8D+Interested+in+Cybersecurity;%F0%9F%A4%96+Automating+Everything+I+Can;%F0%9F%9A%80+Always+Learning%2C+Always+Building" alt="Typing SVG" />
